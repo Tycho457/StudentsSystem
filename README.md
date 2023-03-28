@@ -7,7 +7,7 @@
 ## 页面展示
 （1）学生信息的录入
 满足检查学号重复者、成绩不超过100分检查，计算总分
-
+![image](https://github.com/longsongline/Steins-Gate-Divergence-Meter-Clock-VisitorCounter/raw/main/OVK2VX@NSLC2YR_%7B5WVP%7D%7DQ.png)
 
 （2）学生信息的查询
 根据学号查找：
